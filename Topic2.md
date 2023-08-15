@@ -1,15 +1,15 @@
-## Research Topic #2: Blockchain for Secure Network Slicing Transactions
+## Research Topic#2: Enhancing Network Slicing Security through Blockchain and IoT Integration
 
 ### Problem Statement
-Managing the intricate transactions associated with network slices demands heightened security. Current methods are susceptible to cyberattacks and unauthorized access. Blockchain technology offers a solution by providing a tamper-proof record of network-slicing transactions.
+Network slicing, a transformative technology creating multiple virtual networks on a single physical network, faces challenges in centralized control and vulnerability. To address this, combining Blockchain and IoT offers the potential for a decentralized network-slicing platform. This shift can enhance security, reliability, and scalability by allowing distributed nodes to manage network slices.
 
 ### Research Questions
-1. How can blockchain technology be effectively employed to bolster the security of network-slicing transactions?
-2. What specific advantages does blockchain confer when used to secure network-slicing transactions?
-3. What obstacles must be overcome when implementing blockchain for the purpose of secure network-slicing transactions?
+1. How can the integration of Blockchain and IoT facilitate the creation of a decentralized network-slicing platform?
+2. What advantages does the utilization of Blockchain and IoT bring to the development of a secure network-slicing platform?
+3. What hurdles are associated with adopting Blockchain and IoT for the establishment of a decentralized network slicing platform?
 
 ### Methodology
-The research approach involves a comprehensive blend of theoretical analysis and practical experimentation. Theoretical models encompassing blockchain and network-slicing transactions will be meticulously developed. These models will then be realized through practical implementation and subjected to testing using real-world data.
+This study employs a dual approach, combining theoretical analysis and practical experimentation. Theoretical models encompassing Blockchain, IoT, and network slicing will be developed. These models will be translated into tangible implementations and rigorously tested using real-world data.
 
 ### Expected Results
-The anticipated outcome of this research endeavour is a novel method leveraging blockchain technology to fortify the security of network-slicing transactions. This innovation is poised to provide a robust defence against malicious activities and the illicit appropriation of network resources.
+The anticipated outcome of this research is a novel approach to creating a decentralized network-slicing platform using the synergistic power of Blockchain and IoT. This innovation is poised to significantly enhance the security, reliability, and scalability of network slicing operations, fortifying them against threats and unauthorized access.
