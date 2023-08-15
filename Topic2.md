@@ -1,4 +1,4 @@
-## Research Topic#2: Enhancing Network Slicing Security through Blockchain and IoT Integration
+## Research Topic #2: Enhancing Network Slicing Security through Blockchain and IoT Integration
 
 ### Problem Statement
 Network slicing, a transformative technology creating multiple virtual networks on a single physical network, faces challenges in centralized control and vulnerability. To address this, combining Blockchain and IoT offers the potential for a decentralized network-slicing platform. This shift can enhance security, reliability, and scalability by allowing distributed nodes to manage network slices.
