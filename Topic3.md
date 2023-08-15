@@ -1,4 +1,4 @@
-## Research Topic #3:Enhancing Network Resilience Against Natural Disasters
+## Research Topic #3: Enhancing Network Resilience Against Natural Disasters
 
 ### Problem Statement
 Computer networks are susceptible to significant damage caused by natural disasters, cyberattacks, and various disruptions. This research delves into innovative network design approaches that enhance network robustness and resilience against these adversities. The investigation focuses on leveraging the potential of Internet of Things (IoT) devices and blockchain technology to fortify network resilience.
