@@ -1,4 +1,4 @@
-## Research Topic #1: Blockchain for Secure Network Slicing Transactions
+## Research Topic #2: Blockchain for Secure Network Slicing Transactions
 
 ### Problem Statement
 Managing the intricate transactions associated with network slices demands heightened security. Current methods are susceptible to cyberattacks and unauthorized access. Blockchain technology offers a solution by providing a tamper-proof record of network-slicing transactions.
